@@ -20,6 +20,7 @@ disk_id='disk8'
 file_dir="/opt/transcode/file/$disk_id"
 log_dir='/opt/transcode/logs'
 error_dir="$log_dir/error"
+##add path of logo
 logo_path='/path/to/Logo-TVOD-1280.png'
 #fix ratio
 fix_ratio=1.55
